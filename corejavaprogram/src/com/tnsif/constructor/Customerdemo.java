@@ -23,6 +23,9 @@ public class Customerdemo {
 		
 		System.out.println(c);
 		
+		 boolean out=c instanceof Customer;
+	     System.out.println(out);
+		
 	}
 
 }

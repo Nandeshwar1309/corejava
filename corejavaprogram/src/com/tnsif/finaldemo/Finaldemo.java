@@ -7,7 +7,7 @@ public class Finaldemo {
 	static final int y;
 	
 	//final
-	final void change() {
+	void change() {
 		System.out.println("default");
 		
 	}
